@@ -7,3 +7,5 @@ echo "再击再6了";
 'fixed the broken email address'
 echo 'test53';
 echo 'testmerge'
+
+echo 'merge1';
